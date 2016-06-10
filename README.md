@@ -14,13 +14,19 @@ This jsp web-app is a sales portal for buyer and sales planner.
 - [x] should have adequate implementation of Java EE with Tomcat
 - [x] should have attached the libraries used - common-fileupload, commons-io, mysql-connector, sqljdbc
 
+## UIs
 
-![testing-image](https://raw.githubusercontent.com/swarnavinash/Crawler-node/14513af970b3c1885851eeecafc236e75b2b4626/testing.png)
+### Sales Dashboard
+![testing-image](https://raw.githubusercontent.com/swarnavinash/sales-portal/master/1-SalesDashboard.png)
 
-![testing-image](https://raw.githubusercontent.com/swarnavinash/Crawler-node/14513af970b3c1885851eeecafc236e75b2b4626/testing.png)
+### Sales Dashboard - View Docs
+![testing-image](https://raw.githubusercontent.com/swarnavinash/sales-portal/master/2-SalesDashboard-ViewDocs.png)
 
-![testing-image](https://raw.githubusercontent.com/swarnavinash/Crawler-node/14513af970b3c1885851eeecafc236e75b2b4626/testing.png)
+### Sales Dashboard - New Project
+![testing-image](https://raw.githubusercontent.com/swarnavinash/sales-portal/master/3-SalesNewProject.png)
 
-![testing-image](https://raw.githubusercontent.com/swarnavinash/Crawler-node/14513af970b3c1885851eeecafc236e75b2b4626/testing.png)
+### Buyer Dashboard
+![testing-image](https://raw.githubusercontent.com/swarnavinash/sales-portal/master/4-BuyerDashboard.png)
 
-![testing-image](https://raw.githubusercontent.com/swarnavinash/Crawler-node/14513af970b3c1885851eeecafc236e75b2b4626/testing.png)
+### Buyer Project Details
+![testing-image](https://raw.githubusercontent.com/swarnavinash/sales-portal/master/5-BuyerProjectDetails.png)
